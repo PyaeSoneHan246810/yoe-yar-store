@@ -96,6 +96,10 @@ body::-webkit-scrollbar-thumb {
 }
 
 /* hero section background images */
+.home-page-hero-background {
+    background: url(../asset/images/home_page_hero.jpg) center/cover no-repeat;
+}
+
 .new-items-hero-background {
     background: url(../asset/images/new_items_hero.jpg) center/cover no-repeat;
     position: relative;
